@@ -50,7 +50,7 @@ function start() {
 
   const intro = document.getElementsByClassName("intro")[0];
 
-  const music = new Audio("https://s3-us-west-2.amazonaws.com/s.cdpn.io/161676/music.mp3");
+  const music = new Audio("StrangerThings.mp3");
 
   intro.className += " intro--hide";
 
