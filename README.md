@@ -1,5 +1,7 @@
 # Stranger Things Intro
 
+![Stranger Things](strangerthings.jpeg)
+
 This project is a recreation of the iconic "Stranger Things" title sequence using JavaScript, HTML, and CSS.
 
 ## Introduction
